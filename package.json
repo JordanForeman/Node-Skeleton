@@ -1,0 +1,17 @@
+{
+	"name": "lims",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "latest",
+		"express3-handlebars": "latest",
+		"mongodb": "latest",
+		"underscore": "latest",
+		"passport": "latest",
+		"passport-local": "latest",
+		"passport-local-mongoose": "latest",
+		"mongoose": "latest"
+	},
+	"devDependencies": {
+		"grunt": "latest"
+	}
+}
